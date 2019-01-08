@@ -1,0 +1,27 @@
+.pages{
+	display: none;
+	width: 240px;
+	height: 320px;
+}
+
+
+.page-title{
+	text-align: center;
+}
+
+.bt-back{
+	float: right;
+}
+
+
+.items{
+	width: 50px;
+}
+
+.item-details{
+	width: 100%;
+}
+
+.col-sm-4{
+	width: auto;
+}
